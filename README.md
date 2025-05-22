@@ -1,38 +1,43 @@
-# create-svelte
+# FantaLies
+FantaLies is a global observatory that tracks, analyzes, and archives political, corporate, and institutional promises vs. actions. Wrapped in a playful fantasy theme but grounded in real-world data, FantaLies exposes the gap between words and reality — one broken promise at a time.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+In the mythical realm of FantaLies, leaders make grand vows, but only some wield the rare magic of follow-through. Our mission is to make these "fantasies" visible, accountable, and unforgettable.
 
-## Creating a project
+# Our Mission
+To hold powerful entities accountable by:
 
-If you're seeing this, you've probably already done this step. Congrats!
+Tracking public promises from politicians, governments, and corporations
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Evaluating progress and fulfillment using real-world data
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Allowing citizens to explore, vote, and challenge claims
 
-## Developing
+Creating a fantasy-style interface to make civic awareness more engaging, interactive, and memorable
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+# How It Works
+## Capture the Promise
+We collect promises from public speeches, manifestos, campaign documents, press releases, and interviews.
 
-```bash
-npm run dev
+## Track the Journey
+Each promise is visualized as a magical quest – tracked over time with factual updates, verified sources, and expert analysis.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Score & Accountability
+Promises are rated as:
 
-## Building
+- ✅ Fulfilled
 
-To create a production version of your app:
+- ⚠️ In Progress
 
-```bash
-npm run build
-```
+- ❌ Broken
 
-You can preview the production build with `npm run preview`.
+- 🌀 Abandoned in the Mists of Fantasy
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+User Interaction
+
+Upvote the most ridiculous promises
+
+Submit new ones with proof
+
+Challenge fulfillment status with sources
+
+Get real-time updates when a "quest" is completed or fails
