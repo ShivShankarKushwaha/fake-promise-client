@@ -32,7 +32,8 @@ const config = {
 			'@styles': '/src/styles',
 			'@types': '/src/types',
 			'@utils': '/src/utils',
-			'@static': '/static'
+			'@static': '/static',
+			'@data': '/src/data'
 		}
 	}
 };
