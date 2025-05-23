@@ -11,7 +11,7 @@
 </script>
 
 <div
-	class="group flex min-h-[20rem] max-w-sm flex-shrink-0 flex-grow basis-80 flex-col items-center justify-start gap-10 px-5 py-10 text-center
+	class="group flex min-h-[20rem] max-w-md flex-shrink-0 flex-grow basis-80 flex-col items-center justify-start gap-10 px-5 py-10 text-center
                 font-mono text-slate-300 shadow-inner shadow-slate-400 hover:cursor-pointer md:basis-[calc(50%-20px)] lg:basis-[calc(33.333%-27px)]"
 >
 	<h3 class="mb-2 text-2xl font-bold text-[#4e769e] group-hover:underline">{title}</h3>

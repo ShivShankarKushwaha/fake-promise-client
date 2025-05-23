@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the image name
-IMAGE_NAME="advanced"
+IMAGE_NAME="fantalies"
 
 echo "Running container from image: $IMAGE_NAME $1"
 # Get all containers related to the specific image
@@ -24,10 +24,10 @@ fi
 
 # Open localhost:3000 in the browser (macOS-specific using the 'open' command)
 echo "Opening http://localhost:3000 in your browser..."
-open http://localhost:4000
+open http://localhost:3000
 
 # load the environment variables
 source .env
 
 # Run the container
-docker run -p 4000:3000 $IMAGE_NAME
+docker run -p 3000:3000 $IMAGE_NAME
