@@ -43,7 +43,6 @@
 							transition:fly={{ x: -1000, duration: 1500 }}
 							src="/assets/politician.png"
 							alt="Cartoon of a politician making a grand promise"
-							aria-label="Cartoon of a politician making a grand promise"
 							width="320"
 							height="320"
 							loading="lazy"
