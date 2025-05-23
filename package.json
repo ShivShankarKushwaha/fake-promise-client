@@ -1,5 +1,5 @@
 {
-	"name": "advanced",
+	"name": "fantalies",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -15,7 +15,7 @@
 		"test:unit": "vitest",
 		"coverage": "vitest run --coverage --mode testing",
 		"prepare": "husky",
-		"build:docker": "docker build -t advanced .",
+		"build:docker": "docker build -t fantalies .",
 		"start:docker": "./src/scripts/docker/index.sh --remove",
 		"machine-translate": "inlang machine translate --project project.inlang"
 	},
