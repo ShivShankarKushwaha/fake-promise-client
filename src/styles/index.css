@@ -3,12 +3,16 @@
 @import './utils/index.css';
 
 @import './base/fonts.css';
-:root {
-	--primary-color: #00ff99;
-	--secondary-color: #9333ea;
-	--tertiary-color: #f59e0b;
 
-	--dark-primary-color: #00e187;
-	--dark-secondary-color: #832de9;
-	--dark-tertiary-color: #e0900a;
+:root {
+	--primary-color: #003366;
+	--dark-primary-color: #001f33;
+	--secondary-color: #cc0000;
+	--dark-secondary-color: #990000;
+	--accent-color: #ffd700;
+	--dark-accent-color: #b8860b;
+	--background-color: #f5f5f5;
+	--dark-background-color: #1a1a1a;
+	--headline-color: #111827;
+	--satire-color: #ff6347;
 }

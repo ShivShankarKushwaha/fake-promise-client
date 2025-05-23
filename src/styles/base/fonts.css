@@ -21,3 +21,35 @@
 	font-weight: 700;
 	font-display: swap;
 }
+
+@font-face {
+	font-family: 'Inter';
+	src: local('Inter'), local('inter'), url('/assets/fonts/Inter-regular.ttf');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: local('Inter'), local('inter'), url('/assets/fonts/Inter-bold.ttf');
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	src: local('Merriweather'), local('merriweather'), url('/assets/fonts/Merriweather-Regular.ttf');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	src: local('Merriweather'), local('merriweather'), url('/assets/fonts/Merriweather-Bold.ttf');
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+}
